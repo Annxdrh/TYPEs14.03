@@ -91,3 +91,5 @@ user2.login = 'geo'
 
 console.log(user3.grade)
 admin.grade = 10
+
+const POlya_Privet
